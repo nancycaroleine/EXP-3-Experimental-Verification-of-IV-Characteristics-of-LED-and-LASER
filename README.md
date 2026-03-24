@@ -66,13 +66,13 @@ V. This is the electrical power supplied to the LED. Data sheets for the LED spe
 
 ## 📊 TABULATION
 
-![output](a1.jpeg)
-![output](a2.jpeg)
+![output](o1.jpeg)
+![output](o2.jpeg)
 ---
 
 ## 📈 MODEL GRAPH:
-![output](a3.jpeg)
-![output](a4.jpeg)
+![output](o3.jpeg)
+![output](o4.jpeg)
 
 ---
 
