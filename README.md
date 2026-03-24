@@ -58,7 +58,7 @@ V. This is the electrical power supplied to the LED. Data sheets for the LED spe
 
 ---
 
-## 🔌 BLOCK DIAGRAM
+## 🔌 BLOCK DIAGRAM:
 
 <img width="1135" height="715" alt="image" src="https://github.com/user-attachments/assets/ee34ea62-0c00-461a-9486-92f22eb0efec" />
 
