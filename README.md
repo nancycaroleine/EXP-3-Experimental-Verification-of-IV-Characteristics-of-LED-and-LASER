@@ -70,7 +70,7 @@ V. This is the electrical power supplied to the LED. Data sheets for the LED spe
 ![output](a2.jpeg)
 ---
 
-## 📈 MODEL GRAPH
+## 📈 MODEL GRAPH:
 ![output](a3.jpeg)
 ![output](a4.jpeg)
 
